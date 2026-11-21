@@ -1,8 +1,8 @@
-# robosys2026-stats
+# kadai
 
 標準入力から受け取った数値列の基本統計量（件数、合計、平均、最小値、最大値）を計算して標準出力へ出力するコマンド `stats` のリポジトリです。
 
-![test](https://github.com/yukky162/robosys2026-stats/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/yukky162/kadai/actions/workflows/test.yml/badge.svg)
 
 ## 使い方
 
